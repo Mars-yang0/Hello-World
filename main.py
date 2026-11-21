@@ -1,4 +1,7 @@
 print("Hello Git!")
 print("Hello GitHub!")
-print("Hello GitLab!")
-print("Hello Bitbucket!")
+
+def add(a, b):
+    return a + b
+
+print(add(1, 2))
